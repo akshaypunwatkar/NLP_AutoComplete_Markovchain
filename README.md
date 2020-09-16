@@ -1,4 +1,5 @@
-# Natural Language Processing - Sentence auto-complete using Markov chain
+# Natural Language Processing 
+# Sentence auto-complete using Markov chain
 
 Text auto completion implemented using Markov Chain. 
 
